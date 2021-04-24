@@ -1,0 +1,286 @@
+/* Rectangle 2 */
+
+.footerdown{
+position: absolute;
+width: 1440px;
+height: 165px;
+left: 0px;
+top: 859px;
+background: #444444;
+}
+
+/* Rectangle 1 */
+
+.footerup{
+position: absolute;
+width: 1440px;
+height: 92px;
+left: 0px;
+top: 134px;
+background: #DC143C;
+}
+
+/* О нас */
+
+.frameonas{
+
+
+position: absolute;
+width: 100px;
+height: 54px;
+left: 977px;
+top: 162px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFEFE;
+}
+
+
+/* Ещё... */
+
+.framemore{
+
+
+position: absolute;
+width: 102px;
+height: 54px;
+left: 1260px;
+top: 162px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFEFE;
+}
+
+.content
+{
+  background: #E5E5E5;
+}
+/* image 1 */
+
+.logoimage{
+
+position: absolute;
+width: 432px;
+height: 170px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+}
+
+/* Книжный магазин */
+
+.header{
+
+position: absolute;
+width: 500.92px;
+height: 70.06px;
+left: 600px;
+top: 20px;
+color:black;
+background: white;
+font-size: 30pt;
+font-family: Pompadur, 'Comic Sans MS', cursive;
+/* background: white; */
+}
+
+/* Главное 2021 */
+
+.framemain{
+
+
+position: absolute;
+width: 232px;
+height: 54px;
+left: 39px;
+top: 162px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFEFE;
+}
+
+
+/* Детям */
+
+.framedetyam{
+
+position: absolute;
+width: 124px;
+height: 54px;
+left: 707px;
+top: 162px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFEFE;
+}
+
+
+/* Книги */
+
+.framebooks{
+position: absolute;
+width: 107px;
+height: 54px;
+left: 417px;
+top: 162px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFEFE;
+}
+
+
+/* image 2 */
+
+.regimage{
+position: absolute;
+width: 134px;
+height: 146.08px;
+left: 1311px;
+top: -12px;
+
+background: url(image.png);
+}
+
+/* image 3 */
+
+.buyimage{
+position: absolute;
+width: 151.68px;
+height: 134px;
+left: 1159px;
+top: 0px;
+
+background: url(image.png);
+}
+
+/* image 4 */
+
+.mainimage{
+position: absolute;
+width: 1440px;
+height: 790px;
+left: 0px;
+top: 226px;
+
+background: url(image.png);
+}
+
+/* На этом сайте вы найдёте множество различных интересных вам книг и сможете заказать доставку в любой город РФ. */
+
+.maintext{
+
+position: absheadolute;
+width: 620px;
+height: 377px;
+left: -15px;
+top: 226px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+font-family: Pompadur, 'Comic Sans MS', cursive;
+
+color: #685C5E;
+}
+
+
+/* Тел.: +7(917)2756585 Email: shigabiev.shamil@mail.ru */
+
+.framecontacts{
+position: absolute;
+width: 431px;
+height: 75px;
+left: -14px;
+top: 892px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* Адрес: г. Казань Азинская 2-я 1е */
+
+.frameadres{
+
+position: absolute;
+width: 304px;
+height: 75px;
+left: 401px;
+top: 892px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* Автор идеи: © Шигабиев Шамиль Все права защищены */
+
+.framecopyright{
+
+position: absolute;
+width: 304px;
+height: 75px;
+left: 1069px;
+top: 892px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+}
+/* image 5 */
+
+.vk{
+
+position: absolute;
+width: 68px;
+height: 66px;
+left: 748px;
+top: 892px;
+
+background: url(image.png);
+}
